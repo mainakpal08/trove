@@ -31,37 +31,37 @@ function createTrackItem(index,name,duration){
   var listAudio = [
     {
       name:"Rain",
-      file:"/assets/rain.mp3",
+      file:"https://raw.githubusercontent.com/mpalrocks/trove/host/assets/rain.mp3",
       duration:"00:49"
     },
     {
       name:"Christmas Eve, Puducherry",
-      file:"/assets/puducherry.mp3",
+      file:"https://raw.githubusercontent.com/mpalrocks/trove/host/assets/puducherry.mp3",
       duration:"02:09"
     },    
     {
       name:"Birds-I, Hindmotor Factory",
-      file:"/assets/hm_bird1.mp3",
+      file:"https://raw.githubusercontent.com/mpalrocks/trove/host/assets/hm_bird1.mp3",
       duration:"00:51"
     },
     {
       name:"Sea, Puri",
-      file:"/assets/puri1.mp3",
+      file:"https://raw.githubusercontent.com/mpalrocks/trove/host/assets/puri1.mp3",
       duration:"01:10"
     },
     {
       name:"Birds-II, Hindmotor Factory",
-      file:"/assets/hm_bird2.mp3",
+      file:"https://raw.githubusercontent.com/mpalrocks/trove/host/assets/hm_bird2.mp3",
       duration:"00:42"
     },
     {
       name:"Bengali Folk, Bolepur",
-      file:"/assets/folk_bolpur.mp3",
+      file:"https://raw.githubusercontent.com/mpalrocks/trove/host/assets/folk_bolpur.mp3",
       duration:"02:38"
     },
     {
       name:"Sea, Kovalam",
-      file:"/assets/kovalam.mp3",
+      file:"https://raw.githubusercontent.com/mpalrocks/trove/host/assets/kovalam.mp3",
       duration:"01:44"
     }
 
